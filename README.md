@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Saksham Rajpal, a Full Stack Developer 👋🏼:
-🛜 Currently working on my own [portfolio](https://saksham-portfolio-android.vercel.app/)<br>👨🏼‍🎓 Studying Computer Science and Engineering at Guru Gobind Singh Indraprastha University(GGSIPU)<br>👨🏼‍💻 Working as a web developer since 2024 <br>🎬 Currently exploring Blockchain, AI & ML
+🛜 Currently working on my own [portfolio](https://saksham-portfolio-android.vercel.app/).<br>👨🏼‍🎓 Studying Computer Science and Engineering at Guru Gobind Singh Indraprastha University(GGSIPU).<br>👨🏼‍💻 Working as a web developer since 2024. <br>🎬 Currently exploring Blockchain, AI & ML.
 
 
 # 💻 Tech Stack:
